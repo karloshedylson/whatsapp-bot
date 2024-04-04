@@ -1,6 +1,7 @@
-const { MongoClient } = require('mongodb');
+const { MongoClient } = require('mongodb')
+require('dotenv').config()
 
-const uri = 'mongodb+srv://ftp:zi3O3FRwyCyxas3C@cluster1.pxupdzu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1/chatbot';
+const uri = process.env.MONGODB_URI
 const dbName = 'chatbot';
 
 let client;
