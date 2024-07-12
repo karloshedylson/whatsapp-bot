@@ -2,25 +2,25 @@
   key: {
     remoteJid: '558191844513@s.whatsapp.net',
     fromMe: false,
-    id: '3ABF8E87E4AEDC0FC84D',
+    id: '3EB00258120859CC1FFBE1',
     participant: undefined
   },
-  messageTimestamp: 1712183006,
+  messageTimestamp: 1720795241,
   pushName: 'Karlos',
   broadcast: false,
   message: Message {
-    conversation: 'Quero negociar minha dívida',
+    conversation: '+2400 educandus',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Quero negociar minha dívida',
+  body: '+2400 educandus',
   from: '558191844513'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_df5dce5c-ab63-4f43-a11e-48f45239f5ce',
-  keyword: 'key_dd058b15-d034-46ed-b9a0-45ff64276cfc',
+  ref: 'ans_750437f5-18b3-474a-941b-4bdedfd243f9',
+  keyword: 'key_769ebc89-945d-4078-b335-17ba29b5b16c',
   answer: '__call_action__',
   options: {
     media: null,
@@ -34,81 +34,5 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '9d8e3861d14c124ea794e5cead01947a'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '558191844513@s.whatsapp.net',
-    fromMe: false,
-    id: '3AD934244A22D548BD26',
-    participant: undefined
-  },
-  messageTimestamp: 1712183022,
-  pushName: 'Karlos',
-  broadcast: false,
-  message: Message {
-    conversation: 'Qual o valor da minha dívida? Estou por fora',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Qual o valor da minha dívida? Estou por fora',
-  from: '558191844513'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_df5dce5c-ab63-4f43-a11e-48f45239f5ce',
-  keyword: 'key_dd058b15-d034-46ed-b9a0-45ff64276cfc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '9d8e3861d14c124ea794e5cead01947a'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '558191844513@s.whatsapp.net',
-    fromMe: false,
-    id: '3A6789315A7550E2E2A6',
-    participant: undefined
-  },
-  messageTimestamp: 1712183041,
-  pushName: 'Karlos',
-  broadcast: false,
-  message: Message {
-    conversation: 'Você está errado, minha dívida é de 2.000 reais',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Você está errado, minha dívida é de 2.000 reais',
-  from: '558191844513'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_df5dce5c-ab63-4f43-a11e-48f45239f5ce',
-  keyword: 'key_dd058b15-d034-46ed-b9a0-45ff64276cfc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '9d8e3861d14c124ea794e5cead01947a'
+  refSerialize: '3b636e1ea06ea5b02160ab3de1324909'
 }

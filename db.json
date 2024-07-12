@@ -1,15 +1,15 @@
 [
   {
-    "ref": "ded6c2d1-c075-46a7-9fbe-5f1e617329cc",
-    "keyword": "bf416e9b24b95e1b4dbe8f05a7107b5f",
-    "answer": "Quero negociar minha dívida",
+    "ref": "1aafce76-b06e-4c4f-a1a4-081f2d420cba",
+    "keyword": "a5ff6ec0c37fca4dfaf6154923943627",
+    "answer": "+2400 educandus",
     "options": {},
     "from": "558191844513",
-    "refSerialize": "a93d81eed87b55b5a6294aef77d32a60"
+    "refSerialize": "dff9b87f494d7f89dc4e95b430e6aa69"
   },
   {
-    "ref": "ans_df5dce5c-ab63-4f43-a11e-48f45239f5ce",
-    "keyword": "key_dd058b15-d034-46ed-b9a0-45ff64276cfc",
+    "ref": "ans_750437f5-18b3-474a-941b-4bdedfd243f9",
+    "keyword": "key_769ebc89-945d-4078-b335-17ba29b5b16c",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -23,13 +23,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "9d8e3861d14c124ea794e5cead01947a",
+    "refSerialize": "3b636e1ea06ea5b02160ab3de1324909",
     "from": "558191844513"
   },
   {
-    "ref": "15977ca9-87b1-4df2-a38c-3e960f4d0c6d",
+    "ref": "6e4f70f8-2e0b-4531-9611-d3294698cc7b",
     "keyword": null,
-    "answer": "Excelente, estou aqui para auxiliar nesse processo. Poderia me informar qual seria a sua proposta para o pagamento da dívida? Estou à disposição para chegarmos a um acordo viável para ambas as partes.",
+    "answer": "Transação cadastrada com sucesso!",
     "options": {
       "media": null,
       "buttons": [],
@@ -37,86 +37,6 @@
       "delay": 0
     },
     "from": "558191844513",
-    "refSerialize": "891c604d7d1da5c3cc1aa39847faae7a"
-  },
-  {
-    "ref": "3c75c425-46fa-428f-8f5b-bebe1c0ffe99",
-    "keyword": "9d8e3861d14c124ea794e5cead01947a",
-    "answer": "Qual o valor da minha dívida? Estou por fora",
-    "options": {},
-    "from": "558191844513",
-    "refSerialize": "8099dd47b20be5af5ff99bc3a4658b92"
-  },
-  {
-    "ref": "ans_df5dce5c-ab63-4f43-a11e-48f45239f5ce",
-    "keyword": "key_dd058b15-d034-46ed-b9a0-45ff64276cfc",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "9d8e3861d14c124ea794e5cead01947a",
-    "from": "558191844513"
-  },
-  {
-    "ref": "babe7bd1-344c-4dc3-991f-dbfa27354b8c",
-    "keyword": null,
-    "answer": "Entendo que é importante estar ciente do estado atual de suas finanças. A dívida atualmente registrada é de 10.000 reais. Estou aqui para ajudá-lo a encontrar um plano de pagamento que possa atender às suas necessidades financeiras. Como você gostaria de proceder?",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "558191844513",
-    "refSerialize": "eec4f8bdc9cf0269b36d1ee4c575a541"
-  },
-  {
-    "ref": "77431ac2-91e0-4f95-97f5-14014c76c324",
-    "keyword": "9d8e3861d14c124ea794e5cead01947a",
-    "answer": "Você está errado, minha dívida é de 2.000 reais",
-    "options": {},
-    "from": "558191844513",
-    "refSerialize": "adf702603696abb1a8539a06d6a4bee6"
-  },
-  {
-    "ref": "ans_df5dce5c-ab63-4f43-a11e-48f45239f5ce",
-    "keyword": "key_dd058b15-d034-46ed-b9a0-45ff64276cfc",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "9d8e3861d14c124ea794e5cead01947a",
-    "from": "558191844513"
-  },
-  {
-    "ref": "3722bc83-c48e-4e9e-845f-95250d62c90c",
-    "keyword": null,
-    "answer": "Entendo que possa haver alguma confusão sobre o valor. Vamos esclarecer a situação: qual seria o valor exato no seu entendimento, e como podemos ajudar a resolver essa questão? Se o valor de R$ 2.000 está correto, estou aqui para ajudá-lo a encontrar uma solução amigável. Como gostaria de proceder com a negociação?",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "558191844513",
-    "refSerialize": "9e50e3a756be800c20120f5e00cd4317"
+    "refSerialize": "896e35ff6364a2170f3992a337493a5c"
   }
 ]
